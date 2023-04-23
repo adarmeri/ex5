@@ -1,6 +1,6 @@
 import { useRef, useEffect } from 'react';
 
-export default function focus() {
+export default function Focus() {
   const inputRef = useRef();
 
   useEffect(() => {
